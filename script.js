@@ -1,40 +1,37 @@
 let linkProjetos = [
 
 	 {
-		linkProjeto: "https://marcelino85.github.io/Snake/",
-		title: "Jogo Snake",
+		linkProjeto: "https://marcelino85.github.io/Praey/",
+		title: "Site Empresarial - Oliveira Remodelação",
 		like: 0
 	},
 	{
-		linkProjeto: "https://marcelino85.github.io/Sistema-de-Financas/",
-		title: "Sistema de Finanças",
+		linkProjeto: "https://marcelino85.github.io/Site-Consultoria-Simples/",
+		title: "Site Empresarial - Consultoria Simples",
 		like: 0
 	},
 	{
-		linkProjeto: "https://marcelino85.github.io/HiperBookApp/",
-		title: "HiperBook",
+		linkProjeto: "https://marcelino85.github.io/Star-Wars-Characters/",
+		title: "Landing Page - Consumindo uma API/Star-Wars",
 		like: 0
 	},
 	{
-		linkProjeto: "https://marcelino85.github.io/Calculadora-IMC/",
-		title: "Calculadora IMC",
+		linkProjeto: "https://marcelino85.github.io/API-Rick-and-Morty/",
+		title: "Projeto academico / em desenvolvimento",
 		like: 0
 	},
 	{
 		linkProjeto: "https://marcelino85.github.io/Projeto-The-Chosen/",
-		title: "LandPag - The Chosen",
+		title: "Landing Page - The Chosen",
 		like: 0
 	},
-  	{
-		linkProjeto: "https://marcelino85.github.io/Game-Luck-Number/",
-		title: "Game Luck Numbe",
+	{
+		linkProjeto: "https://marcelino85.github.io/Site-Consuntoria-Simples-CS/",
+		title: "Projeto em desenvolvimento",
 		like: 0
 	},
-  {
-		linkProjeto: "https://marcelino85.github.io/Jogo-da-velha/",
-		title: "Jogo da velha",
-		like: 0
-	},
+  
+ 
 
  
 ];
