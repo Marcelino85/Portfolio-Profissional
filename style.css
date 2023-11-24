@@ -499,7 +499,7 @@ footer p {
 }
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
 
 	header {
 		display: block;
@@ -541,6 +541,10 @@ footer p {
 		margin-right: 15px;
 	}
 
+	#curriculoV{
+		width: 100%;
+		
+	}
 }
 
 
@@ -619,6 +623,11 @@ footer p {
 		font-size: 15pt;
 		
 	}
+
+	#curriculoV{
+		width: 100%;
+		
+	}
 	
 }
 
@@ -664,6 +673,7 @@ footer p {
 
 	#curriculoV{
 		width: 100%;
+		
 	}
 
 
