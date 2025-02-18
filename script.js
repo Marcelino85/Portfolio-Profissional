@@ -1,6 +1,11 @@
 let linkProjetos = [
 
 	 {
+		linkProjeto: "https://codebookrecomend.netlify.app/",
+		title: "Sitema FullStack - CodeBook Recomenda",
+		like: 0
+	},
+	 {
 		linkProjeto: "https://marcelino85.github.io/Praey/",
 		title: "Site Empresarial - Oliveira Remodelação",
 		like: 0
@@ -16,23 +21,11 @@ let linkProjetos = [
 		like: 0
 	},
 	{
-		linkProjeto: "https://marcelino85.github.io/API-Rick-and-Morty/",
-		title: "Projeto academico / em desenvolvimento",
-		like: 0
-	},
-	{
 		linkProjeto: "https://marcelino85.github.io/Projeto-The-Chosen/",
 		title: "Landing Page - The Chosen",
 		like: 0
 	},
-	{
-		linkProjeto: "https://marcelino85.github.io/Site-Consuntoria-Simples-CS/",
-		title: "Projeto em desenvolvimento",
-		like: 0
-	},
-  
- 
-
+	
  
 ];
 
