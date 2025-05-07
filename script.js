@@ -1,8 +1,13 @@
 let linkProjetos = [
 
 	 {
-		linkProjeto: "https://codebookrecomend.netlify.app/",
-		title: "Sitema FullStack - CodeBook Recomenda",
+		 linkProjeto: "https://codebookrecomend.netlify.app/",
+		 title: "Sitema FullStack - CodeBook Recomenda",
+		like: 0
+	},
+	 {
+		linkProjeto: "https://marcelino85.github.io/quiz-master-re-start/",
+		title: "Sistema FullStack - Quiz AWS re/Start",
 		like: 0
 	},
 	 {
